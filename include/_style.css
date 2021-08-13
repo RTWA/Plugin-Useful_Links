@@ -5,10 +5,6 @@ body.view {
 }
 
 /* Useful Links Plugin */
-.preview .UsefulLinks {
-    width: 300px;
-}
-
 .UsefulLinks {
     padding-left: 0;
     margin-bottom: 0;
