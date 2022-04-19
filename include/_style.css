@@ -5,6 +5,11 @@ body.view {
 }
 
 /* Useful Links Plugin */
+.preview .UsefulLinks {
+    max-width: 208px !important;
+    max-height: 208px !important;
+}
+
 .UsefulLinks {
     padding-left: 0;
     margin-bottom: 0;
