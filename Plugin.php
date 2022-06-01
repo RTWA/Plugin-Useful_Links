@@ -70,7 +70,7 @@ class UsefulLinks_Plugin extends Plugin
 
     public $preview = [
         'items' => [
-            'each' => '<a id="item{index}" href={value.linkURL}" target="_blank" 
+            'each' => '<a id="item{index}" href="{value.linkURL}" target="_blank" 
                             class="relative block hover:bg-gray-50 dark:hover:bg-gray-700 {value.linkIcon}">
                         <h5 class="font-semibold text-lg" data-val="value.linkName"></h5>
                         <p class="mb-1" data-val="value.linkDesc"></p>
